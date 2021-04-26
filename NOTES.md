@@ -33,3 +33,4 @@
 apia cia naudojama rasymo sintakse (md - markdown)
 https://guides.github.com/features/mastering-markdown
 
+selektor

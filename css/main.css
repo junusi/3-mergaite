@@ -1,0 +1,33 @@
+body{
+    background-color: #f8f8f8; 
+    margin: 0;   
+   }   
+   header{
+   display: inline-block;
+   width: 800px;
+   background-color: yellow;
+   margin-left: calc(50% - 400px);
+   }
+   header>img{
+   height: 50px;
+   float: left;
+   }
+   nav{
+   float: right;
+   }
+    
+    a{display: inline-block;}
+    
+   main{
+   display: inline-block;
+   width: 800px;
+   background-color:pink;
+   margin-left: calc(50% - 400px);
+   }
+   div{display: inline-block;}
+   
+   h1{display: inline-block;}
+   
+   p{display: inline-block;}
+   main>img{display: inline-block;}
+   
