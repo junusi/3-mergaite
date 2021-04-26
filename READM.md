@@ -19,3 +19,8 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 - png images
 - fixed width content
 - desktop only
+
+# Authors
+[Ivanas](https:github.com/junusi)
+
+Ivanas [Github](https:github.com)
